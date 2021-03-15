@@ -1,0 +1,8 @@
+{ 
+                               
+  "userlist":[
+            {"username":"usr1", "password":"a123"},
+            {"username":"usr2", "password":"a123"},
+            {"username":"usr3", "password":"a123"}
+           ]         
+}
